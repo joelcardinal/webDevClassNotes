@@ -55,10 +55,11 @@ JavaScript
 	OOP & functional programming
 	design patterns
 	DOM / jQuery
-	Web Apis
 	Events
-	strict mode
-	ES6/JavaScript 2015
+	Web Apis
+	strict mode & ES6/JavaScript 2015
+
+Node, NPM, Frameworks, Libraries, SPAs...
 
 Versioning
 	Git/SVN
