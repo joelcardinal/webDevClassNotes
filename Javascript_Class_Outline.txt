@@ -1,0 +1,77 @@
+How the internet works
+	https://github.com/alex/what-happens-when
+	http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+	http://www.w3.org/wiki/How_does_the_Internet_work
+
+How browsers work
+	http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
+Editors
+	To get started with HTML/CSS/JS, you can simply use Notepad on Windows or TextEdit for Mac (or download Xcode).
+	Note, you can't write code with document creation programs like Word, as they add invisible characters that will break your code.
+
+Chrome's Dev Tools, I use them every day
+	https://developer.chrome.com/devtools
+
+Canvas/SVG/OpenGL
+
+Where to add JavaScript
+
+JavaScript
+	console.log // object at time of display not at time of call
+	variables
+	strings
+		concat
+	boolean
+	numbers
+		integer
+		float
+	logic operators
+		&&
+		||
+	comparisons
+		<=
+		==
+		===
+		!
+		ternary
+		() // truthy
+	null, undefined
+	dynamic language type conversion
+	arrays
+	objects
+	standard objects
+		Math
+		JSON
+		...
+	Statements & Declarations
+		for
+		try
+		if
+		...
+	functions
+	scope, closure
+	prototypal inheritance
+	design patterns
+	DOM / jQuery
+	Web Apis
+	Events
+	strict mode
+	ES6/JavaScript 2015
+
+Versioning
+	Git/SVN
+
+Tuts and APIs:
+	https://developer.mozilla.org/en-US/docs/Web/JavaScript
+	https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+Frequently used DOM manipulation:
+	http://youmightnotneedjquery.com/
+
+Free online book:
+	http://eloquentjavascript.net/
+
+Not free books:
+	http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0
+	http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742

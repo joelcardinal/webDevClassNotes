@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>My Page Title</title>
+    <link rel="stylesheet" href="path/to/myStyleSheet.css">
+    <script src="path/to/myScript.js"></script>
+  </head>
+  <body>
+    <!-- page content -->
+  </body>
+</html>
+
+<!--
+
+How the internet works
+	https://github.com/alex/what-happens-when
+	http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+	http://www.w3.org/wiki/How_does_the_Internet_work
+
+How browsers work
+	http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
+Editors
+	To get started with HTML/CSS/JS, you can simply use Notepad on Windows or TextEdit for Mac (or download Xcode).
+	Note, you can't write code with document creation programs like Word, as they add invisible characters that will break your code.
+
+Chrome's Dev Tools, I use them every day
+	https://developer.chrome.com/devtools
+
+HTML5 minimal page markup
+	http://www.sitepoint.com/a-minimal-html-document-html5-edition/
+
+DOCTYPE
+	https://www.w3.org/QA/2002/04/valid-dtd-list.html
+	http://www.htmlhelp.com/tools/validator/doctype.html
+	https://en.wikipedia.org/wiki/Document_type_declaration
+
+Meta-Tags
+	mobile
+	description
+	google/fb
+
+Body sections
+	https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document
+	http://blog.teamtreehouse.com/use-html5-sectioning-elements
+	http://html5doctor.com/the-main-element/
+	http://html5doctor.com/resources/#flowchart
+
+Elements
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+	https://www.w3.org/TR/html-markup/elements.html
+
+Element Attributes & Micro formats (google/facebook)
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+Forms & Tables
+	Tables deprecated except for use in email (although even that is changing)
+		https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+	Data collection
+
+Canvas/SVG/OpenGL
+
+Where to add Javascript
+
+CSS
+	Three ways to add css
+	Syntax
+	Responsive
+
+Versioning
+	Git/SVN
+
+-->

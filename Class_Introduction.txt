@@ -1,0 +1,134 @@
+I thought an introduction would help frame the subject and get the ball rolling.  I've also included some resources at bottom.
+
+Programming is great, I'd like to approach this as an introduction to Web Development.  When someone mentions "Web Development", they are usually referring to one or both sides of the field:
+
+Front-End (client facing)
+HTML: the skeleton of the page
+CSS: the look and style of the page
+JavaScript: makes the page dynamic
+
+Back-End (not client facing)
+Typically heavily vested in programming functionality, not implicitly involved in design of visual display. Examples: programming servers to perform certain functions, like serve up templated HTML, or get data from a database and transform the data into a CSV  file that will be FTP'd to another server.  Any number of languages can and might be used for back-end processes, and with the advent of Node.js it might even be JavaScript.  There are many programming languages out there, and you should learn more than one as syntax is not the singular difference between them, but largely the concept of programming IS a skill that can be re-applied across various languages.
+
+The above is grossly simplified and you'll find many different job titles. You can get more granualar (e.g. data base administration) or expand to a broader view, IT, which includes numerous exciting positions likd QA, Data Analyst, or Systems Engineer.  Don't forget that there are less technical positions that are just as important like Project Management, and Content Specialist. 
+
+Despite all the varying job titles that you'll see, your position, salary, and responsibilies will really be defined by your skill set.
+
+
+
+Preceeding information begs the question, "in such a big field, where do I start"?
+
+If you want to get familiar with the technical side of Web Development, I suggest learning in this order:
+
+1. HTML
+Hyper Text Markup Language describes the order and structure of your web page.  Learn what make a web page a web page, from DocType to element attributes.  Don't guess by association what something means, really take the time to learn what it is.
+
+2. CSS
+Cascading Style Sheet describe the look of your HTML.  If HTML were the body, CSS would be the clothes.  I find CSS to be the most time consuming and frustrating part of development, so if you struggle getting your div to vertically center — join the club ;)
+
+3. JavaScript
+Not to be confused with Java (which it's nothing like nor related to), JavaScript is a programming language, the only one in fact that natively is used by browsers.  It can also be used server-side in many different environments.
+
+Those three are only the begining of your journey, for example we haven't even mentioned databases, added to the fact that HTML/CSS/JS are constantly evolving and new features are being added to the browser requiring new techniques, markup, and API's to learn.
+
+
+
+
+Don't feel burdened by this flood of information, you can do this!  In fact you can make a web page right now.  Open Notepad or TextEdit (not Word) and add the markup below -- don't copy/paste, type it in your editor!:
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1.green {
+color: #7bb801;
+}
+</style>
+</head>
+<body>
+<h1 class="green">Hello World!</h1>
+</body>
+</html>
+
+Save the file with name "MyPage.html" and then drag the file icon into your browser's address bar.  Boom...drop the mic...you just made a web page!
+
+Now go figure out what every bit of the HTML and CSS is doing, don't take it at face value, learn why the syntax is the way it is.  Learning Web Development is for those hungry to learn, because it's a field that is constantly changing and evolving.  Fortunately, there is a plethora of knowledge available for free (Google Search and StackOverFlow will become your best friends), but the best way to retain all this information is to apply it — make some webpages!
+
+
+RESOURCES
+
+How does the internet work?
+https://github.com/alex/what-happens-when
+http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+http://www.w3.org/wiki/How_does_the_Internet_work
+
+http://www.frontendhandbook.com/
+It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
+
+HTML
+See courses below.
+
+CSS
+See courses below.
+
+JAVASCRIPT
+
+Tuts and APIs:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+Frequently used DOM manipulation:
+http://youmightnotneedjquery.com/
+
+Free online book:
+http://eloquentjavascript.net/
+
+Not free books:
+http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0
+http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
+
+See courses below.
+
+TOOLS:
+
+Editors...there more than you can shake a stick at, try them out, find what you like.  To get started with HTML/CSS/JS, you can simply use Notepad on Windows or TextEdit for Mac (or download Xcode).  Note, you can't write code with document creation programs like Word, as they add invisible characters that will break your code.
+
+To publically expose your site, you'll eventually need a way to upload files to a server, there are many FTP clients, popular ones are Filezilla(PC/MAC) and CyberDuck (Mac).
+
+Get familiar with Chrome's Dev Tools, I use them every day:
+https://developer.chrome.com/devtools
+
+Git, a code versioning system
+You can use it from the terminal (may require an install), there's also visual software for interfacing with it like SourceTree.
+https://help.github.com/desktop/guides/getting-started/installing-github-desktop/
+https://help.github.com/articles/set-up-git/
+https://try.github.io
+
+COURSES:
+
+Free courses:
+
+Khan Academy
+https://www.khanacademy.org/computing/computer-programming/html-css
+
+Mozilla
+https://developer.mozilla.org/en-US/
+https://developer.mozilla.org/en-US/Learn
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web
+
+Google
+https://developers.google.com/web/fundamentals/
+https://developers.google.com/web/fundamentals/getting-started/
+
+www.javascript.com
+
+Some courses require fee, others free:
+
+www.udacity.com/
+www.edx.org/
+www.coursera.org/
+
+Require fee:
+
+www.codeschool.com/
+www.codecademy.com/
