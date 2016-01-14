@@ -68,6 +68,20 @@ CSS
 	Three ways to add css
 	Syntax
 	Responsive
+		meta-tags
+		pixel density
+		img size
+	Reset, Normalize, or...
+		http://jaydenseric.com/blog/forget-normalize-or-resets-lay-your-own-css-foundation
+	Style guides
+		http://brand.uber.com/
+		https://www.google.com/design/spec/material-design/introduction.html
+		https://playbook.cio.gov/designstandards/
+	Frameworks & Boilerplates
+		https://html5boilerplate.com/
+		http://foundation.zurb.com/
+		http://getbootstrap.com/
+		http://purecss.io/
 
 Versioning
 	Git/SVN
