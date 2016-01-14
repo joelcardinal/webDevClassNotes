@@ -52,6 +52,7 @@ JavaScript
 	functions
 	scope, closure
 	prototypal inheritance
+	OOP & functional programming
 	design patterns
 	DOM / jQuery
 	Web Apis
@@ -61,6 +62,8 @@ JavaScript
 
 Versioning
 	Git/SVN
+
+REFERENCES
 
 Tuts and APIs:
 	https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -75,3 +78,12 @@ Free online book:
 Not free books:
 	http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0
 	http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
+
+Misc.:
+	https://www.w3.org/wiki/JavaScript_best_practices
+	http://thoughtsonscripts.blogspot.com/2011/11/javascript-functional-or-object.html
+	http://eloquentjavascript.net/1st_edition/chapter6.html
+	http://youmightnotneedjquery.com/
+	http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html
+	https://www.reddit.com/r/javascript/comments/38174n/why_dont_we_name_our_anonymous_functions/
+	https://learn.jquery.com/code-organization/
