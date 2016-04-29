@@ -60,14 +60,33 @@ Forms & Tables
 		https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
 	Data collection
 
-Canvas/SVG/OpenGL
+Adding media
+
+Canvas/SVG/OpenGL/objects
 
 Where to add Javascript
 
+Accessibility
+	aria
+	alt
+
 CSS
 	Three ways to add css
-	Syntax & Rules
+	Syntax
+	Cascading & Inheritance
+	Selectors
+	Color
+	Text
+	block/layout
+		float
+		flexbox
+	List
+	links
+	tables (deprecated)
+	images
 	Fonts
+	Buttons/Other Native Styled elements and how to override
+	Accessibility (hide)
 	Responsive
 		meta-tags
 		pixel density
