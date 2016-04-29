@@ -13,8 +13,6 @@ Editors
 Chrome's Dev Tools, I use them every day
 	https://developer.chrome.com/devtools
 
-Canvas/SVG/OpenGL
-
 Where to add JavaScript
 
 JavaScript
@@ -55,9 +53,11 @@ JavaScript
 	OOP & functional programming
 	design patterns
 	DOM / jQuery
-	Events
+		Events
 	Web Apis
 	strict mode & ES6/JavaScript 2015
+	
+Canvas/SVG/OpenGL
 
 Node, NPM, Frameworks, Libraries, SPAs...
 
