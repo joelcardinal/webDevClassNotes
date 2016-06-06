@@ -56,7 +56,9 @@ JavaScript
 		Events
 	Web Apis
 	strict mode & ES6/JavaScript 2015
-	
+
+Debugging
+
 Canvas/SVG/OpenGL
 
 Node, NPM, Frameworks, Libraries, SPAs...
